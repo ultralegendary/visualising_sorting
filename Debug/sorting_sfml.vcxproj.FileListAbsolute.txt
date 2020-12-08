@@ -1,0 +1,2 @@
+E:\c++\sfml\sfml projects\sorting_sfml\Debug\sorting_sfml.exe
+E:\c++\sfml\sfml projects\sorting_sfml\Debug\sorting_sfml.pdb
