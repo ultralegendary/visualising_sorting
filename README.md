@@ -1,5 +1,8 @@
 # visualising_sorting
-source code is available is main.cpp\n
-external library used: SFML
-if u wish to have the executable file
-Download the Debug file and use the executable file is availabel under Debug/sorting_sfml
+source code is available is [**main.cpp**](main.cpp)  
+External library used: [SFML](https://www.sfml-dev.org/tutorials/2.5/)  
+If u wish to download the executable file:  
+Download the [Debug](debug) directory  
+Executable file is availabel under [Debug/sorting_sfml](debug/sorting_sfml)
+
+
