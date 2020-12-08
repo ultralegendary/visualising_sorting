@@ -1,10 +1,20 @@
 ﻿  main.cpp
-E:\c++\sfml\sfml projects\sorting_sfml\main.cpp(573,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\c++\sfml\sfml projects\sorting_sfml\main.cpp(559,34): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\c++\sfml\sfml projects\sorting_sfml\main.cpp(559,29): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\c++\sfml\sfml projects\sorting_sfml\main.cpp(574,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\c++\sfml\sfml projects\sorting_sfml\main.cpp(573,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\c++\sfml\sfml projects\sorting_sfml\main.cpp(574,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
@@ -22,7 +32,7 @@ C:\Program Files\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.2911
               _Tuple=_Tuple
           ]
 C:\Program Files\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\thread(55): message : see reference to function template instantiation 'unsigned int (__stdcall *std::thread::_Get_invoke<_Tuple,0,1,2,3>(std::integer_sequence<size_t,0,1,2,3>) noexcept)(void *)' being compiled
-E:\c++\sfml\sfml projects\sorting_sfml\main.cpp(689): message : see reference to function template instantiation 'std::thread::thread<void(__thiscall sorting::* )(int,int),sorting*,int,float,0>(_Fn &&,sorting *&&,int &&,float &&)' being compiled
+E:\c++\sfml\sfml projects\sorting_sfml\main.cpp(690): message : see reference to function template instantiation 'std::thread::thread<void(__thiscall sorting::* )(int,int),sorting*,int,float,0>(_Fn &&,sorting *&&,int &&,float &&)' being compiled
           with
           [
               _Fn=void (__thiscall sorting::* )(int,int)
